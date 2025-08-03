@@ -22,7 +22,7 @@ I'm a second-year Information Technology student at **VNUHCM - University of Sci
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,sql,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,react,mysql,git,github,vscode,windows,ubuntu" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ I'm a second-year Information Technology student at **VNUHCM - University of Sci
 I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[URL-LinkedIn-của-bạn]" target="_blank">
+  <a href="https://www.linkedin.com/in/tmhhoc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tranminhhieuhoc@gmail.com" target="_blank">
