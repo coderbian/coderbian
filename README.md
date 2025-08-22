@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a second-year Information Technology student at **VNUHCM - University of Science**, passionate about turning ideas into reality through code. My main interests lie in **Software Engineering** and **Data Analysis**, and I'm always excited to explore the world of **AI**.
+I'm a third-year Information Technology student at **VNUHCM - University of Science**, passionate about turning ideas into reality through code. My main interests lie in **Software Engineering** and **Data Analysis**, and I'm always excited to explore the world of **AI**.
 
 ---
 
