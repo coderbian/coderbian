@@ -12,8 +12,8 @@ I'm a third-year Information Technology student at **VNUHCM - University of Scie
 
 ### 🚀 What I'm Currently Working On
 
-*   🔭 Building **"Tank Battle"**, a real-time web-based game with my team.
-*   🧠 Developing an innovative solution for the **"Ho Chi Minh City AI Challenge 2025"**, focusing on AI Retrieval.
+*   🔭 Building **"Candlestick Chart App"**, a real-time candlestick chart, with my team.
+*   🧠 Developing an innovative solution for the **"Ho Chi Minh City AI Challenge 2026"**, focusing on AI Retrieval.
 *   🌱 Sharpening my skills in data structures, algorithms, and system design.
 
 ---
@@ -42,5 +42,3 @@ I'm always open to connecting with fellow developers, students, and professional
 </p>
 
 ---
-
-⚡ **Fun Fact:** I'm a machine that turns coffee and instant noodles into code. ☕🍜
